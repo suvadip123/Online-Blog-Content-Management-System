@@ -67,7 +67,7 @@
 				</div>
 				<div class="w3layouts-agile-copyrightbottom">
 					<p> Responsive Blog Site <?php $current=date("Y"); print_r($current);?> | Brought To You by
-						Suvadip Maiti
+						Responsive Vlog Site
 					</p>
 
 				</div>
