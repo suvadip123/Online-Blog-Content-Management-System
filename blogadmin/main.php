@@ -134,7 +134,7 @@
 <footer class="footer footer-inverse">
       <div class="container">
         <div class="text-center">
-          <small>Blog Admin 2018 | Brought To You By <a href="http://code-projects.org/">Code-Projects</a></small>
+          <small>Blog Admin 2018 | Brought To You By Responsive Blog Site</small>
         </div>
       </div>
     </footer>
